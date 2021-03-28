@@ -2,7 +2,8 @@
 复现Video Stitching for Linear Camera Arrays
 
 # 下载数据集
-
+链接：https://pan.baidu.com/s/1dkp2jXqRIwqcplj-NAIraQ 
+提取码：i1p9 
 
 # 训练网络
 
